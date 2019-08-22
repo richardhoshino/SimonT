@@ -2,7 +2,5 @@ pandas
 numpy
 statistics
 matplotlib
-matplotlib.pyplot
 statsmodels.api
 scipy
-scipy.stats
