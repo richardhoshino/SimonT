@@ -1,0 +1,9 @@
+pandas
+numpy
+statistics
+math
+matplotlib
+matplotlib.pyplot
+statsmodels.api
+scipy
+scipy.stats
